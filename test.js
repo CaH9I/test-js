@@ -15,6 +15,10 @@ window.PeeriusIpxlTestCallbacks =
         name:'FullCartPage',
         position: 'FullCartPage_Peerius_nl',
         recommendation: ["PRD-3876328", "PRD-3934771", "PRD-3988986", "PRD-3963429", "16214"]
+    }, {
+        name:'SearchEmptyParagraph',
+        position: 'SearchEmptyParagraph_CrossSelling_nl',
+        recommendation: ["16214"]
     }];
 
 (function () {
