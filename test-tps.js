@@ -1,5 +1,5 @@
 window.PeeriusIpxlTestCallbacks =
-    [{
+    [/*{
         name: 'homepage_Section2_1_ie',
         position: 'homepage_Section2_1_ie',
         recommendation: ["64402EDTAJU", "64400EDTJU", "64400EDTAJU", "64400EDTRJU", "38103SGELBL"]
@@ -58,7 +58,7 @@ window.PeeriusIpxlTestCallbacks =
         name: 'productDetails_SectionCarousel_2_uk',
         position: 'productDetails_SectionCarousel_2_uk',
         recommendation: ["64402EDTAJU", "64400EDTJU", "64400EDTAJU", "64400EDTRJU", "38103SGELBL"]
-    }];
+    }*/];
 
 (function () {
     "use strict";
