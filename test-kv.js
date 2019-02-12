@@ -23,6 +23,10 @@ window.PeeriusIpxlTestCallbacks =
         name:'CarouselItem',
         position: 'CarouselItem_nl',
         recommendation: ["16214"]
+    }, {
+        name:'CategoryGrid',
+        position: 'CategoryGrid_nl',
+        recommendation: ["16214"]
     }];
 
 (function () {
