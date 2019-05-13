@@ -47,6 +47,42 @@ window.PeeriusIpxlTestCallbacks =
         name: 'Peerius_CategoryLandPage_Section3',
         position: 'Peerius_CategoryLandPage_Section3_MCH',
         recommendation: ["84101400", "48010410", "79281210", "19978840", "09128010", "27064410", "85070160", "60230400", "60237010"]
+    }
+    
+    , {
+        name: 'Peerius_productDetails_CrossSelling',
+        position: 'Peerius_productDetails_CrossSelling',
+        recommendation: ["84101400", "48010410", "79281210", "19978840", "09128010", "27064410", "85070160", "60230400", "60237010"]
+    }
+    , {
+        name: 'Peerius_emptyLightCart_ProductCarousel',
+        position: 'Peerius_emptyLightCart_ProductCarousel',
+        recommendation: ["84101400", "48010410", "79281210", "19978840", "09128010", "27064410", "85070160", "60230400", "60237010"]
+    }
+    , {
+        name: 'Peerius_lightCart_ProductCarousel',
+        position: 'Peerius_lightCart_ProductCarousel',
+        recommendation: ["84101400", "48010410", "79281210", "19978840", "09128010", "27064410", "85070160", "60230400", "60237010"]
+    }
+    , {
+        name: 'Peerius_emptySearchResult_ProductCarousel',
+        position: 'Peerius_emptySearchResult_ProductCarousel',
+        recommendation: ["84101400", "48010410", "79281210", "19978840", "09128010", "27064410", "85070160", "60230400", "60237010"]
+    }
+    , {
+        name: 'Peerius_lightCheckoutLogin_ProductCarousel',
+        position: 'Peerius_lightCheckoutLogin_ProductCarousel',
+        recommendation: ["84101400", "48010410", "79281210", "19978840", "09128010", "27064410", "85070160", "60230400", "60237010"]
+    }
+    , {
+        name: 'Peerius_lightCheckoutSummary_ProductCarousel',
+        position: 'Peerius_lightCheckoutSummary_ProductCarousel',
+        recommendation: ["84101400", "48010410", "79281210", "19978840", "09128010", "27064410", "85070160", "60230400", "60237010"]
+    }
+    , {
+        name: 'Peerius_singleStepCheckoutSummary_ProductCarousel',
+        position: 'Peerius_singleStepCheckoutSummary_ProductCarousel',
+        recommendation: ["84101400", "48010410", "79281210", "19978840", "09128010", "27064410", "85070160", "60230400", "60237010"]
     }];
 
 (function () {
