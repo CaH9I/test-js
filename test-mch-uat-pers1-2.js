@@ -23,6 +23,30 @@ window.PeeriusIpxlTestCallbacks =
         name: 'menu_advnav_MLife_1',
         position: 'menu_advnav_MLife_1_MCH',
         recommendation: ["60269160"]
+    }, {
+        name: 'Peerius_homepage_Section2',
+        position: 'Peerius_homepage_Section2_MCH',
+        recommendation: ["84101400", "48010410", "79281210", "19978840", "09128010", "27064410", "85070160", "60230400", "60237010"]
+    }, {
+        name: 'Peerius_productDetails_CrossSelling',
+        position: 'Peerius_productDetails_CrossSelling_MCH',
+        recommendation: ["84101400", "48010410", "79281210", "19978840", "09128010", "27064410", "85070160", "60230400", "60237010"]
+    }, {
+        name: 'Peerius_SearchEmpty_MiddleContent',
+        position: 'Peerius_SearchEmpty_MiddleContent_MCH',
+        recommendation: ["84101400", "48010410", "79281210", "19978840", "09128010", "27064410", "85070160", "60230400", "60237010"]
+    }, {
+        name: 'Peerius_emptyCartPage_Section1',
+        position: 'Peerius_emptyCartPage_Section1_MCH',
+        recommendation: ["84101400", "48010410", "79281210", "19978840", "09128010", "27064410", "85070160", "60230400", "60237010"]
+    }, {
+        name: 'Peerius_LightCheckoutSummary_BottomContent',
+        position: 'Peerius_LightCheckoutSummary_BottomContent_MCH',
+        recommendation: ["84101400", "48010410", "79281210", "19978840", "09128010", "27064410", "85070160", "60230400", "60237010"]
+    }, {
+        name: 'Peerius_CategoryLandPage_Section3',
+        position: 'Peerius_CategoryLandPage_Section3_MCH',
+        recommendation: ["84101400", "48010410", "79281210", "19978840", "09128010", "27064410", "85070160", "60230400", "60237010"]
     }];
 
 (function () {
