@@ -58,6 +58,36 @@ window.PeeriusIpxlTestCallbacks =
         name: 'productDetails_SectionCarousel_2_uk',
         position: 'productDetails_SectionCarousel_2_uk',
         recommendation: ["1154210", "1199868", "1097492", "1019694", "1190487"]
+    },
+    {
+        name: 'homepage_Section1_1_uk',
+        position: 'homepage_Section1_1_uk',
+        recommendation: ["1154210"]
+    },
+    {
+        name: 'homepage_Section1_1_ie',
+        position: 'homepage_Section1_1_ie',
+        recommendation: ["1154210"]
+    },
+    {
+        name: 'homepage_Section3_banner1_uk',
+        position: 'homepage_Section3_banner1_uk',
+        recommendation: ["1154210"]
+    },
+    {
+        name: 'homepage_Section3_banner1_ie',
+        position: 'homepage_Section3_banner1_ie',
+        recommendation: ["1154210"]
+    },
+    {
+        name: 'C01_SectionTopBanner1_1_uk',
+        position: 'C01_SectionTopBanner1_1_uk',
+        recommendation: ["1154210"]
+    },
+    {
+        name: 'C01_SectionTopBanner1_1_ie',
+        position: 'C01_SectionTopBanner1_1_ie',
+        recommendation: ["1154210"]
     }];
 
 (function () {
