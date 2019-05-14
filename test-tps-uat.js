@@ -2,62 +2,62 @@ window.PeeriusIpxlTestCallbacks =
     [{
         name: 'homepage_Section2_1_ie',
         position: 'homepage_Section2_1_ie',
-        recommendation: ["64402EDTAJU", "64400EDTJU", "64400EDTAJU", "64400EDTRJU", "38103SGELBL"]
+        recommendation: ["1154210", "1199868", "1097492", "1019694", "1190487"]
     },
     {
         name: 'homepage_Section2_1_uk',
         position: 'homepage_Section2_1_uk',
-        recommendation: ["64402EDTAJU", "64400EDTJU", "64400EDTAJU", "64400EDTRJU", "38103SGELBL"]
+        recommendation: ["1154210", "1199868", "1097492", "1019694", "1190487"]
     },
     {
         name: 'notFound_SectionMarketing_5_ie',
         position: 'notFound_SectionMarketing_5_ie',
-        recommendation: ["64402EDTAJU", "64400EDTJU", "64400EDTAJU", "64400EDTRJU", "38103SGELBL"]
+        recommendation: ["1154210", "1199868", "1097492", "1019694", "1190487"]
     },
     {
         name: 'notFound_SectionMarketing_5_uk',
         position: 'notFound_SectionMarketing_5_uk',
-        recommendation: ["64402EDTAJU", "64400EDTJU", "64400EDTAJU", "64400EDTRJU", "38103SGELBL"]
+        recommendation: ["1154210", "1199868", "1097492", "1019694", "1190487"]
     },
     {
         name: 'SearchEmpty_SectionMarketing_3_ie',
         position: 'SearchEmpty_SectionMarketing_3_ie',
-        recommendation: ["64402EDTAJU", "64400EDTJU", "64400EDTAJU", "64400EDTRJU", "38103SGELBL"]
+        recommendation: ["1154210", "1199868", "1097492", "1019694", "1190487"]
     },
     {
         name: 'SearchEmpty_SectionMarketing_3_uk',
         position: 'SearchEmpty_SectionMarketing_3_uk',
-        recommendation: ["64402EDTAJU", "64400EDTJU", "64400EDTAJU", "64400EDTRJU", "38103SGELBL"]
+        recommendation: ["1154210", "1199868", "1097492", "1019694", "1190487"]
     },
     {
         name: 'emptyCartPage_Section1_4_ie',
         position: 'emptyCartPage_Section1_4_ie',
-        recommendation: ["64402EDTAJU", "64400EDTJU", "64400EDTAJU", "64400EDTRJU", "38103SGELBL"]
+        recommendation: ["1154210", "1199868", "1097492", "1019694", "1190487"]
     },
     {
         name: 'emptyCartPage_Section1_4_uk',
         position: 'emptyCartPage_Section1_4_uk',
-        recommendation: ["64402EDTAJU", "64400EDTJU", "64400EDTAJU", "64400EDTRJU", "38103SGELBL"]
+        recommendation: ["1154210", "1199868", "1097492", "1019694", "1190487"]
     },
     {
         name: 'orderConfirmationPage_Section1_6_ie',
         position: 'orderConfirmationPage_Section1_6_ie',
-        recommendation: ["64402EDTAJU", "64400EDTJU", "64400EDTAJU", "64400EDTRJU", "38103SGELBL"]
+        recommendation: ["1154210", "1199868", "1097492", "1019694", "1190487"]
     },
     {
         name: 'orderConfirmationPage_Section1_6_uk',
         position: 'orderConfirmationPage_Section1_6_uk',
-        recommendation: ["64402EDTAJU", "64400EDTJU", "64400EDTAJU", "64400EDTRJU", "38103SGELBL"]
+        recommendation: ["1154210", "1199868", "1097492", "1019694", "1190487"]
     },
     {
         name: 'productDetails_SectionCarousel_2_ie',
         position: 'productDetails_SectionCarousel_2_ie',
-        recommendation: ["64402EDTAJU", "64400EDTJU", "64400EDTAJU", "64400EDTRJU", "38103SGELBL"]
+        recommendation: ["1154210", "1199868", "1097492", "1019694", "1190487"]
     },
     {
         name: 'productDetails_SectionCarousel_2_uk',
         position: 'productDetails_SectionCarousel_2_uk',
-        recommendation: ["64402EDTAJU", "64400EDTJU", "64400EDTAJU", "64400EDTRJU", "38103SGELBL"]
+        recommendation: ["1154210", "1199868", "1097492", "1019694", "1190487"]
     }];
 
 (function () {
