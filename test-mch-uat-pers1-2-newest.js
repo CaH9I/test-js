@@ -83,6 +83,42 @@ window.PeeriusIpxlTestCallbacks =
         name: 'Peerius_singleStepCheckoutSummary_ProductCarousel',
         position: 'Peerius_singleStepCheckoutSummary_ProductCarousel',
         recommendation: ["84101400", "48010410", "79281210", "19978840", "09128010", "27064410", "85070160", "60230400", "60237010"]
+    }
+    
+    , {
+        name: 'Peerius_productDetails_CrossSelling_MCH',
+        position: 'Peerius_productDetails_CrossSelling_MCH',
+        recommendation: ["84101400", "48010410", "79281210", "19978840", "09128010", "27064410", "85070160", "60230400", "60237010"]
+    }
+    , {
+        name: 'Peerius_emptyLightCart_ProductCarousel_MCH',
+        position: 'Peerius_emptyLightCart_ProductCarousel_MCH',
+        recommendation: ["84101400", "48010410", "79281210", "19978840", "09128010", "27064410", "85070160", "60230400", "60237010"]
+    }
+    , {
+        name: 'Peerius_lightCart_ProductCarousel_MCH',
+        position: 'Peerius_lightCart_ProductCarousel_MCH',
+        recommendation: ["84101400", "48010410", "79281210", "19978840", "09128010", "27064410", "85070160", "60230400", "60237010"]
+    }
+    , {
+        name: 'Peerius_emptySearchResult_ProductCarousel_MCH',
+        position: 'Peerius_emptySearchResult_ProductCarousel_MCH',
+        recommendation: ["84101400", "48010410", "79281210", "19978840", "09128010", "27064410", "85070160", "60230400", "60237010"]
+    }
+    , {
+        name: 'Peerius_lightCheckoutLogin_ProductCarousel_MCH',
+        position: 'Peerius_lightCheckoutLogin_ProductCarousel_MCH',
+        recommendation: ["84101400", "48010410", "79281210", "19978840", "09128010", "27064410", "85070160", "60230400", "60237010"]
+    }
+    , {
+        name: 'Peerius_lightCheckoutSummary_ProductCarousel_MCH',
+        position: 'Peerius_lightCheckoutSummary_ProductCarousel_MCH',
+        recommendation: ["84101400", "48010410", "79281210", "19978840", "09128010", "27064410", "85070160", "60230400", "60237010"]
+    }
+    , {
+        name: 'Peerius_singleStepCheckoutSummary_ProductCarousel_MCH',
+        position: 'Peerius_singleStepCheckoutSummary_ProductCarousel_MCH',
+        recommendation: ["84101400", "48010410", "79281210", "19978840", "09128010", "27064410", "85070160", "60230400", "60237010"]
     }];
 
 (function () {
