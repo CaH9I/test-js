@@ -1,5 +1,5 @@
 window.PeeriusIpxlTestCallbacks =
-    [{
+    [/*{
         name: 'homepage_Section2_1_ie',
         position: 'homepage_Section2_1_ie',
         recommendation: ["1154210", "1199868", "1097492", "1019694", "1190487"]
@@ -58,7 +58,7 @@ window.PeeriusIpxlTestCallbacks =
         name: 'productDetails_SectionCarousel_2_uk',
         position: 'productDetails_SectionCarousel_2_uk',
         recommendation: ["1154210", "1199868", "1097492", "1019694", "1190487"]
-    },
+    },*/
     {
         name: 'homepage_Section1_1_uk',
         position: 'homepage_Section1_1_uk',
