@@ -21,7 +21,7 @@ window.PeeriusIpxlTestCallbacks =
         recommendation: ["101855", "90240", "45574", "104980", "104978", "73710", "97337"]
     }, {
         name:'CategoryLandPageSection3',
-        position: 'Peerius_CategoryLandPage_Section3_MIT,
+        position: 'Peerius_CategoryLandPage_Section3_MIT',
         recommendation: ["101855", "90240", "45574", "104980", "104978", "73710", "97337"]
     }];
 
