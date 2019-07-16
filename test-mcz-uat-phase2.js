@@ -1,5 +1,29 @@
 window.PeeriusIpxlTestCallbacks =
     [{
+        name:'homepageSection2',
+        position: 'Peerius_homepage_Section2_MCZ',
+        recommendation: ["BP_00006427", "BP_00010493", "BP_00008668", "BP_00034837", "BP_00036873", "BP_00036367", "BP_00032967"]
+    }, {
+        name:'productDetailsCrossSelling',
+        position: 'Peerius_productDetails_CrossSelling_MCZ',
+        recommendation: ["BP_00006427", "BP_00010493", "BP_00008668", "BP_00034837", "BP_00036873", "BP_00036367", "BP_00032967"]
+    }, {
+        name:'SearchEmptyMiddleContent',
+        position: 'Peerius_SearchEmpty_MiddleContent_MCZ',
+        recommendation: ["BP_00006427", "BP_00010493", "BP_00008668", "BP_00034837", "BP_00036873", "BP_00036367", "BP_00032967"]
+    }, {
+        name:'emptyCartPageSection1',
+        position: 'Peerius_emptyCartPage_Section1_MCZ',
+        recommendation: ["BP_00006427", "BP_00010493", "BP_00008668", "BP_00034837", "BP_00036873", "BP_00036367", "BP_00032967"]
+    }, {
+        name:'LightCheckoutSummaryBottomContent',
+        position: 'Peerius_LightCheckoutSummary_BottomContent_MCZ',
+        recommendation: ["BP_00006427", "BP_00010493", "BP_00008668", "BP_00034837", "BP_00036873", "BP_00036367", "BP_00032967"]
+    }, {
+        name:'CategoryLandPageSection3',
+        position: 'Peerius_CategoryLandPage_Section3_MCZ',
+        recommendation: ["BP_00006427", "BP_00010493", "BP_00008668", "BP_00034837", "BP_00036873", "BP_00036367", "BP_00032967"]
+    },{
         name: 'homepage_Section1_1_MCZ',
         position: 'homepage_Section1_1_MCZ',
         recommendation: ["00044997"]
