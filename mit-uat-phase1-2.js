@@ -24,13 +24,12 @@ window.PeeriusIpxlTestCallbacks =
         position: 'Peerius_CategoryLandPage_Section3_MIT',
         recommendation: ["101855", "90240", "45574", "104980", "104978", "73710", "97337"]
     }, {
-        name: 'homepage_Section1_1_MCZ',
-        position: 'homepage_Section1_1_MCZ',
+        name: 'homepage_Section1_1_MIT',
+        position: 'homepage_Section1_1_MIT',
         recommendation: ["105439"]
-    },
-    {
-        name: 'C01_Banner_Section1B_1_MCZ',
-        position: 'C01_Banner_Section1B_1_MCZ',
+    }, {
+        name: 'C01_Banner_Section1B_1_MIT',
+        position: 'C01_Banner_Section1B_1_MIT',
         recommendation: ["105439"]
     }];
 
